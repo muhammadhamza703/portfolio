@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Muhammad-Hamza Project",
+    "name":"Muhammad-Hamza",
     "description":"I am a web development engineer and I use react to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
     "bio":"I'm a young self-motivated IT professional with knowledge and proficiency in object oriented programming and strong skills in writing clean and efficient code. I seeks the position of Software Developer/ Software Engineer to make a direct impact on the company’s business.",
@@ -109,58 +109,58 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Oware Technolgies",
+        "category":"Supply chain management tool built on MERN Stack",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://customer.oware.co"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Adidas Combat Sports Worldwide",
+        "category":"Adidas Combat Sport Worldwide Website",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://adidascombatsports.axleolio.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Speed Sports Pakistan",
+        "category":"Magento Brand store for Nike, Adidas and UnderArmour",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://speedsports.pk"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Pedro Shoes Pakistan",
+        "category":"Singaporean brand store for Pakistan's franchise",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://speedonline.pk/pedroshoes"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"AFS Gear",
+        "category":"Prestashop based Brand store for US-based combatsports gym client",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://www.afsgear.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"US Boxing",
+        "category":"Prestashop based B2B Berandstore for adidas US Distributor",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.usboxing.net"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"US Fight Store",
+        "category":"Fighting Gear store for B2C customer",
         "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://www.usfightstore.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Ezcommerce",
+        "category":"Supply Chain management tool built on PHP Yii2",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://www.ezcommerce.io"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Axle Olio Portfolio",
+        "category":"Company portfolio built on Yii2 Framework",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://www.axleolio.com"
       },
       {
         "title":"Resume Website",

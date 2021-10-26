@@ -1,78 +1,78 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Muhammad-Hamza Project",
+    "description":"I am a web development engineer and I use react to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I'm a young self-motivated IT professional with knowledge and proficiency in object oriented programming and strong skills in writing clean and efficient code. I seeks the position of Software Developer/ Software Engineer to make a direct impact on the company’s business.",
+    "contactmessage":"For time being contact form is not available. Please contact on mentioned email.",
+    "email": "humza.murtaza@gmail.com",
+    "phone": "92-3029199786",
+    "github":"https://github.com/muhammdhamza703",
+    "project":"https://github.com/muhammadhamza703/portfolio",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Karachi",
+      "city":"Karachi",
+      "state":"Sindh",
+      "zip": "76000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.itzzhammy.github.io",
+    "resumedownload":"https://itzzhammy.github.io/CV___Muhammad_Hamza.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/muhammadhamza703/portfolio",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://github.com/muhammadhamza703/portfolio",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://linkedin.com/in/muhammadhamzah7b4a5610b/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/itzzhammy",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/muhammadhamza703",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I'm a young self-motivated IT professional with knowledge and proficiency in object oriented programming and strong skills in writing clean and efficient code. Moreover my skills are listed below. ",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University",
+        "degree":"Bachelors of Science Computer Science",
+        "graduated":"June 2019",
+        "description":"Functional Programming, OOPs, DDL, and much more..  "
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"College?",
+        "degree":"Pre-Engineering",
+        "graduated":"June 2013",
+        "description":"Pre-Engineering basics including Chemistry, Physics, etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Axle and Olio Solutions Sdn. Bhd.",
+        "title":"Software developer ",
+        "years":"August 2021 - Present",
+        "description":"Working as MERN Stack Devloper where my responsibility not limited to creating frontend views using React, meanwhile fetching data from and developing APIs on Node. "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Axle & Olio Solutions Sdn. Bhd.",
+        "title":"Software Developer",
+        "years":"December 2019 - August 2021",
+        "description":"Worked as CMS Developer where my responsibilities not limited to just customizing and developing themes as well as plugins of Magento, Prestashop, and Wordpress."
       }
     ],
     "skills":[
@@ -81,28 +81,28 @@
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"ReactJs",
+        "level":"65%"
       },
       {
-        "name":"ReactJs",
+        "name":"HTML",
         "level":"50%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"40%"
       },
       {
         "name":"PHP",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"ML Algorithms",
         "level":"50%"
       },
       {
         "name":"JAVA",
-        "level":"80%"
+        "level":"40%"
       }
     ]
   },

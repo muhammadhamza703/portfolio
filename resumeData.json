@@ -55,7 +55,7 @@
         "description":"Functional Programming, OOPs, DDL, and much more..  "
       },
       {
-        "school":"College?",
+        "school":"College",
         "degree":"Pre-Engineering",
         "graduated":"June 2013",
         "description":"Pre-Engineering basics including Chemistry, Physics, etc."
@@ -63,7 +63,7 @@
     ],
     "work":[
       {
-        "company":"Axle and Olio Solutions Sdn. Bhd.",
+        "company":"Experia",
         "title":"Software developer ",
         "years":"August 2021 - Present",
         "description":"Working as MERN Stack Devloper where my responsibility not limited to creating frontend views using React, meanwhile fetching data from and developing APIs on Node. "
@@ -163,22 +163,22 @@
         "url":"http://www.axleolio.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Riz Interior",
+        "category":"A Wordpress based Interior Designer Portfolio",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://www.interior.bmn-es.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Future Tech",
+        "category":"A Wordpress based iPhone Seller E-commerce store.",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://www.future.bmn-es.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Moulin Neuf",
+        "category":"A Wordpress based Garments Seller E-commerce store.",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.tricottage.com"
       }
     ]
   }
